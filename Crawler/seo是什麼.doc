@@ -1,0 +1,1399 @@
+ 
+
+
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+
+div#ez-toc-container p.ez-toc-title {font-size: 120%;}div#ez-toc-container p.ez-toc-title {font-weight: 500;}div#ez-toc-container ul li {font-size: 95%;}
+img#wpstats{display:none}
+    
+.td-header-wrap .black-menu .sf-menu > .current-menu-item > a,
+    .td-header-wrap .black-menu .sf-menu > .current-menu-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > .current-category-ancestor > a,
+    .td-header-wrap .black-menu .sf-menu > li > a:hover,
+    .td-header-wrap .black-menu .sf-menu > .sfHover > a,
+    .td-header-style-12 .td-header-menu-wrap-full,
+    .sf-menu > .current-menu-item > a:after,
+    .sf-menu > .current-menu-ancestor > a:after,
+    .sf-menu > .current-category-ancestor > a:after,
+    .sf-menu > li:hover > a:after,
+    .sf-menu > .sfHover > a:after,
+    .td-header-style-12 .td-affix,
+    .header-search-wrap .td-drop-down-search:after,
+    .header-search-wrap .td-drop-down-search .btn:hover,
+    input[type=submit]:hover,
+    .td-read-more a,
+    .td-post-category:hover,
+    .td-grid-style-1.td-hover-1 .td-big-grid-post:hover .td-post-category,
+    .td-grid-style-5.td-hover-1 .td-big-grid-post:hover .td-post-category,
+    .td_top_authors .td-active .td-author-post-count,
+    .td_top_authors .td-active .td-author-comments-count,
+    .td_top_authors .td_mod_wrap:hover .td-author-post-count,
+    .td_top_authors .td_mod_wrap:hover .td-author-comments-count,
+    .td-404-sub-sub-title a:hover,
+    .td-search-form-widget .wpb_button:hover,
+    .td-rating-bar-wrap div,
+    .td_category_template_3 .td-current-sub-category,
+    .dropcap,
+    .td_wrapper_video_playlist .td_video_controls_playlist_wrapper,
+    .wpb_default,
+    .wpb_default:hover,
+    .td-left-smart-list:hover,
+    .td-right-smart-list:hover,
+    .woocommerce-checkout .woocommerce input.button:hover,
+    .woocommerce-page .woocommerce a.button:hover,
+    .woocommerce-account div.woocommerce .button:hover,
+    #bbpress-forums button:hover,
+    .bbp_widget_login .button:hover,
+    .td-footer-wrapper .td-post-category,
+    .td-footer-wrapper .widget_product_search input[type="submit"]:hover,
+    .woocommerce .product a.button:hover,
+    .woocommerce .product #respond input#submit:hover,
+    .woocommerce .checkout input#place_order:hover,
+    .woocommerce .woocommerce.widget .button:hover,
+    .single-product .product .summary .cart .button:hover,
+    .woocommerce-cart .woocommerce table.cart .button:hover,
+    .woocommerce-cart .woocommerce .shipping-calculator-form .button:hover,
+    .td-next-prev-wrap a:hover,
+    .td-load-more-wrap a:hover,
+    .td-post-small-box a:hover,
+    .page-nav .current,
+    .page-nav:first-child > div,
+    .td_category_template_8 .td-category-header .td-category a.td-current-sub-category,
+    .td_category_template_4 .td-category-siblings .td-category a:hover,
+    #bbpress-forums .bbp-pagination .current,
+    #bbpress-forums #bbp-single-user-details #bbp-user-navigation li.current a,
+    .td-theme-slider:hover .slide-meta-cat a,
+    a.vc_btn-black:hover,
+    .td-trending-now-wrapper:hover .td-trending-now-title,
+    .td-scroll-up,
+    .td-smart-list-button:hover,
+    .td-weather-information:before,
+    .td-weather-week:before,
+    .td_block_exchange .td-exchange-header:before,
+    .td_block_big_grid_9.td-grid-style-1 .td-post-category,
+    .td_block_big_grid_9.td-grid-style-5 .td-post-category,
+    .td-grid-style-6.td-hover-1 .td-module-thumb:after,
+    .td-pulldown-syle-2 .td-subcat-dropdown ul:after,
+    .td_block_template_9 .td-block-title:after,
+    .td_block_template_15 .td-block-title:before {
+        background-color: #bc1715;
+    }
+
+    .global-block-template-4 .td-related-title .td-cur-simple-item:before {
+        border-color: #bc1715 transparent transparent transparent !important;
+    }
+
+    .woocommerce .woocommerce-message .button:hover,
+    .woocommerce .woocommerce-error .button:hover,
+    .woocommerce .woocommerce-info .button:hover,
+    .global-block-template-4 .td-related-title .td-cur-simple-item,
+    .global-block-template-3 .td-related-title .td-cur-simple-item,
+    .global-block-template-9 .td-related-title:after {
+        background-color: #bc1715 !important;
+    }
+
+    .woocommerce .product .onsale,
+    .woocommerce.widget .ui-slider .ui-slider-handle {
+        background: none #bc1715;
+    }
+
+    .woocommerce.widget.widget_layered_nav_filters ul li a {
+        background: none repeat scroll 0 0 #bc1715 !important;
+    }
+
+    a,
+    cite a:hover,
+    .td_mega_menu_sub_cats .cur-sub-cat,
+    .td-mega-span h3 a:hover,
+    .td_mod_mega_menu:hover .entry-title a,
+    .header-search-wrap .result-msg a:hover,
+    .top-header-menu li a:hover,
+    .top-header-menu .current-menu-item > a,
+    .top-header-menu .current-menu-ancestor > a,
+    .top-header-menu .current-category-ancestor > a,
+    .td-social-icon-wrap > a:hover,
+    .td-header-sp-top-widget .td-social-icon-wrap a:hover,
+    .td-page-content blockquote p,
+    .td-post-content blockquote p,
+    .mce-content-body blockquote p,
+    .comment-content blockquote p,
+    .wpb_text_column blockquote p,
+    .td_block_text_with_title blockquote p,
+    .td_module_wrap:hover .entry-title a,
+    .td-subcat-filter .td-subcat-list a:hover,
+    .td-subcat-filter .td-subcat-dropdown a:hover,
+    .td_quote_on_blocks,
+    .dropcap2,
+    .dropcap3,
+    .td_top_authors .td-active .td-authors-name a,
+    .td_top_authors .td_mod_wrap:hover .td-authors-name a,
+    .td-post-next-prev-content a:hover,
+    .author-box-wrap .td-author-social a:hover,
+    .td-author-name a:hover,
+    .td-author-url a:hover,
+    .td_mod_related_posts:hover h3 > a,
+    .td-post-template-11 .td-related-title .td-related-left:hover,
+    .td-post-template-11 .td-related-title .td-related-right:hover,
+    .td-post-template-11 .td-related-title .td-cur-simple-item,
+    .td-post-template-11 .td_block_related_posts .td-next-prev-wrap a:hover,
+    .comment-reply-link:hover,
+    .logged-in-as a:hover,
+    #cancel-comment-reply-link:hover,
+    .td-search-query,
+    .td-category-header .td-pulldown-category-filter-link:hover,
+    .td-category-siblings .td-subcat-dropdown a:hover,
+    .td-category-siblings .td-subcat-dropdown a.td-current-sub-category,
+    .widget a:hover,
+    .td_wp_recentcomments a:hover,
+    .archive .widget_archive .current,
+    .archive .widget_archive .current a,
+    .widget_calendar tfoot a:hover,
+    .woocommerce a.added_to_cart:hover,
+    .woocommerce-account .woocommerce-MyAccount-navigation a:hover,
+    #bbpress-forums li.bbp-header .bbp-reply-content span a:hover,
+    #bbpress-forums .bbp-forum-freshness a:hover,
+    #bbpress-forums .bbp-topic-freshness a:hover,
+    #bbpress-forums .bbp-forums-list li a:hover,
+    #bbpress-forums .bbp-forum-title:hover,
+    #bbpress-forums .bbp-topic-permalink:hover,
+    #bbpress-forums .bbp-topic-started-by a:hover,
+    #bbpress-forums .bbp-topic-started-in a:hover,
+    #bbpress-forums .bbp-body .super-sticky li.bbp-topic-title .bbp-topic-permalink,
+    #bbpress-forums .bbp-body .sticky li.bbp-topic-title .bbp-topic-permalink,
+    .widget_display_replies .bbp-author-name,
+    .widget_display_topics .bbp-author-name,
+    .footer-text-wrap .footer-email-wrap a,
+    .td-subfooter-menu li a:hover,
+    .footer-social-wrap a:hover,
+    a.vc_btn-black:hover,
+    .td-smart-list-dropdown-wrap .td-smart-list-button:hover,
+    .td_module_17 .td-read-more a:hover,
+    .td_module_18 .td-read-more a:hover,
+    .td_module_19 .td-post-author-name a:hover,
+    .td-instagram-user a,
+    .td-pulldown-syle-2 .td-subcat-dropdown:hover .td-subcat-more span,
+    .td-pulldown-syle-2 .td-subcat-dropdown:hover .td-subcat-more i,
+    .td-pulldown-syle-3 .td-subcat-dropdown:hover .td-subcat-more span,
+    .td-pulldown-syle-3 .td-subcat-dropdown:hover .td-subcat-more i,
+    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option:hover,
+    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-display-option:hover i,
+    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-link:hover,
+    .td-block-title-wrap .td-wrapper-pulldown-filter .td-pulldown-filter-item .td-cur-simple-item,
+    .global-block-template-2 .td-related-title .td-cur-simple-item,
+    .global-block-template-5 .td-related-title .td-cur-simple-item,
+    .global-block-template-6 .td-related-title .td-cur-simple-item,
+    .global-block-template-7 .td-related-title .td-cur-simple-item,
+    .global-block-template-8 .td-related-title .td-cur-simple-item,
+    .global-block-template-9 .td-related-title .td-cur-simple-item,
+    .global-block-template-10 .td-related-title .td-cur-simple-item,
+    .global-block-template-11 .td-related-title .td-cur-simple-item,
+    .global-block-template-12 .td-related-title .td-cur-simple-item,
+    .global-block-template-13 .td-related-title .td-cur-simple-item,
+    .global-block-template-14 .td-related-title .td-cur-simple-item,
+    .global-block-template-15 .td-related-title .td-cur-simple-item,
+    .global-block-template-16 .td-related-title .td-cur-simple-item,
+    .global-block-template-17 .td-related-title .td-cur-simple-item,
+    .td-theme-wrap .sf-menu ul .td-menu-item > a:hover,
+    .td-theme-wrap .sf-menu ul .sfHover > a,
+    .td-theme-wrap .sf-menu ul .current-menu-ancestor > a,
+    .td-theme-wrap .sf-menu ul .current-category-ancestor > a,
+    .td-theme-wrap .sf-menu ul .current-menu-item > a,
+     .td_outlined_btn {
+        color: #bc1715;
+    }
+
+    a.vc_btn-black.vc_btn_square_outlined:hover,
+    a.vc_btn-black.vc_btn_outlined:hover,
+    .td-mega-menu-page .wpb_content_element ul li a:hover,
+     .td-theme-wrap .td-aj-search-results .td_module_wrap:hover .entry-title a,
+    .td-theme-wrap .header-search-wrap .result-msg a:hover {
+        color: #bc1715 !important;
+    }
+
+    .td-next-prev-wrap a:hover,
+    .td-load-more-wrap a:hover,
+    .td-post-small-box a:hover,
+    .page-nav .current,
+    .page-nav:first-child > div,
+    .td_category_template_8 .td-category-header .td-category a.td-current-sub-category,
+    .td_category_template_4 .td-category-siblings .td-category a:hover,
+    #bbpress-forums .bbp-pagination .current,
+    .post .td_quote_box,
+    .page .td_quote_box,
+    a.vc_btn-black:hover,
+    .td_block_template_5 .td-block-title > *,
+     .td_outlined_btn {
+        border-color: #bc1715;
+    }
+
+    .td_wrapper_video_playlist .td_video_currently_playing:after {
+        border-color: #bc1715 !important;
+    }
+
+    .header-search-wrap .td-drop-down-search:before {
+        border-color: transparent transparent #bc1715 transparent;
+    }
+
+    .block-title > span,
+    .block-title > a,
+    .block-title > label,
+    .widgettitle,
+    .widgettitle:after,
+    .td-trending-now-title,
+    .td-trending-now-wrapper:hover .td-trending-now-title,
+    .wpb_tabs li.ui-tabs-active a,
+    .wpb_tabs li:hover a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab.vc_active > a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab:hover > a,
+    .td_block_template_1 .td-related-title .td-cur-simple-item,
+    .woocommerce .product .products h2:not(.woocommerce-loop-product__title),
+    .td-subcat-filter .td-subcat-dropdown:hover .td-subcat-more, 
+     .td_3D_btn,
+    .td_shadow_btn,
+    .td_default_btn,
+    .td_round_btn, 
+    .td_outlined_btn:hover {
+    	background-color: #bc1715;
+    }
+
+    .woocommerce div.product .woocommerce-tabs ul.tabs li.active {
+    	background-color: #bc1715 !important;
+    }
+
+    .block-title,
+    .td_block_template_1 .td-related-title,
+    .wpb_tabs .wpb_tabs_nav,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container,
+    .woocommerce div.product .woocommerce-tabs ul.tabs:before {
+        border-color: #bc1715;
+    }
+    .td_block_wrap .td-subcat-item a.td-cur-simple-item {
+	    color: #bc1715;
+	}
+
+
+    
+    .td-grid-style-4 .entry-title
+    {
+        background-color: rgba(188, 23, 21, 0.7);
+    }
+
+    
+    .td-header-wrap .td-header-top-menu-full,
+    .td-header-wrap .top-header-menu .sub-menu {
+        background-color: #ffffff;
+    }
+    .td-header-style-8 .td-header-top-menu-full {
+        background-color: transparent;
+    }
+    .td-header-style-8 .td-header-top-menu-full .td-header-top-menu {
+        background-color: #ffffff;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .td-header-wrap .td-header-top-menu-full .td-header-top-menu,
+    .td-header-wrap .td-header-top-menu-full {
+        border-bottom: none;
+    }
+
+
+    
+    .td-header-top-menu,
+    .td-header-top-menu a,
+    .td-header-wrap .td-header-top-menu-full .td-header-top-menu,
+    .td-header-wrap .td-header-top-menu-full a,
+    .td-header-style-8 .td-header-top-menu,
+    .td-header-style-8 .td-header-top-menu a {
+        color: #bc1715;
+    }
+
+    
+    .top-header-menu .current-menu-item > a,
+    .top-header-menu .current-menu-ancestor > a,
+    .top-header-menu .current-category-ancestor > a,
+    .top-header-menu li a:hover {
+        color: #1e73be;
+    }
+
+    
+    .td-header-wrap .td-header-sp-top-widget .td-icon-font {
+        color: #bc1715;
+    }
+
+    
+    .td-header-wrap .td-header-sp-top-widget i.td-icon-font:hover {
+        color: #1e73be;
+    }
+
+
+    
+    .td-header-wrap .td-header-menu-wrap-full,
+    .sf-menu > .current-menu-ancestor > a,
+    .sf-menu > .current-category-ancestor > a,
+    .td-header-menu-wrap.td-affix,
+    .td-header-style-3 .td-header-main-menu,
+    .td-header-style-3 .td-affix .td-header-main-menu,
+    .td-header-style-4 .td-header-main-menu,
+    .td-header-style-4 .td-affix .td-header-main-menu,
+    .td-header-style-8 .td-header-menu-wrap.td-affix,
+    .td-header-style-8 .td-header-top-menu-full {
+		background-color: #bc1715;
+    }
+
+
+    .td-boxed-layout .td-header-style-3 .td-header-menu-wrap,
+    .td-boxed-layout .td-header-style-4 .td-header-menu-wrap,
+    .td-header-style-3 .td_stretch_content .td-header-menu-wrap,
+    .td-header-style-4 .td_stretch_content .td-header-menu-wrap {
+    	background-color: #bc1715 !important;
+    }
+
+
+    @media (min-width: 1019px) {
+        .td-header-style-1 .td-header-sp-recs,
+        .td-header-style-1 .td-header-sp-logo {
+            margin-bottom: 28px;
+        }
+    }
+
+    @media (min-width: 768px) and (max-width: 1018px) {
+        .td-header-style-1 .td-header-sp-recs,
+        .td-header-style-1 .td-header-sp-logo {
+            margin-bottom: 14px;
+        }
+    }
+
+    .td-header-style-7 .td-header-top-menu {
+        border-bottom: none;
+    }
+
+
+    
+    @media (max-width: 767px) {
+        body .td-header-wrap .td-header-main-menu {
+            background-color: #bc1715 !important;
+        }
+    }
+
+
+    
+    .td-menu-background:before,
+    .td-search-background:before {
+        background: rgba(0,0,0,0.8);
+        background: -moz-linear-gradient(top, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.8) 100%);
+        background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(0,0,0,0.8)), color-stop(100%, rgba(0,0,0,0.8)));
+        background: -webkit-linear-gradient(top, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.8) 100%);
+        background: -o-linear-gradient(top, rgba(0,0,0,0.8) 0%, @mobileu_gradient_two_mob 100%);
+        background: -ms-linear-gradient(top, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.8) 100%);
+        background: linear-gradient(to bottom, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.8) 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='rgba(0,0,0,0.8)', endColorstr='rgba(0,0,0,0.8)', GradientType=0 );
+    }
+
+    
+    .td-mobile-content .current-menu-item > a,
+    .td-mobile-content .current-menu-ancestor > a,
+    .td-mobile-content .current-category-ancestor > a,
+    #td-mobile-nav .td-menu-login-section a:hover,
+    #td-mobile-nav .td-register-section a:hover,
+    #td-mobile-nav .td-menu-socials-wrap a:hover i,
+    .td-search-close a:hover i {
+        color: #dd3333;
+    }
+
+    
+    .mfp-content .td-login-button:active,
+    .mfp-content .td-login-button:hover {
+        background-color: #ff5151;
+    }
+    
+    .mfp-content .td-login-button:active,
+    .mfp-content .td-login-button:hover {
+        color: #ffffff;
+    }
+    
+    .white-popup-block:after {
+        background: rgba(0,0,0,0.8);
+        background: -moz-linear-gradient(45deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.8) 100%);
+        background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(0,0,0,0.8)), color-stop(100%, rgba(0,0,0,0.8)));
+        background: -webkit-linear-gradient(45deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.8) 100%);
+        background: -o-linear-gradient(45deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.8) 100%);
+        background: -ms-linear-gradient(45deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.8) 100%);
+        background: linear-gradient(45deg, rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.8) 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='rgba(0,0,0,0.8)', endColorstr='rgba(0,0,0,0.8)', GradientType=0 );
+    }
+
+
+    
+    .td-footer-wrapper,
+    .td-footer-wrapper .td_block_template_7 .td-block-title > *,
+    .td-footer-wrapper .td_block_template_17 .td-block-title,
+    .td-footer-wrapper .td-block-title-wrap .td-wrapper-pulldown-filter {
+        background-color: #e5e5e5;
+    }
+
+    
+    .td-footer-wrapper,
+    .td-footer-wrapper a,
+    .td-footer-wrapper .block-title a,
+    .td-footer-wrapper .block-title span,
+    .td-footer-wrapper .block-title label,
+    .td-footer-wrapper .td-excerpt,
+    .td-footer-wrapper .td-post-author-name span,
+    .td-footer-wrapper .td-post-date,
+    .td-footer-wrapper .td-social-style3 .td_social_type a,
+    .td-footer-wrapper .td-social-style3,
+    .td-footer-wrapper .td-social-style4 .td_social_type a,
+    .td-footer-wrapper .td-social-style4,
+    .td-footer-wrapper .td-social-style9,
+    .td-footer-wrapper .td-social-style10,
+    .td-footer-wrapper .td-social-style2 .td_social_type a,
+    .td-footer-wrapper .td-social-style8 .td_social_type a,
+    .td-footer-wrapper .td-social-style2 .td_social_type,
+    .td-footer-wrapper .td-social-style8 .td_social_type,
+    .td-footer-template-13 .td-social-name,
+    .td-footer-wrapper .td_block_template_7 .td-block-title > * {
+        color: #0a0a0a;
+    }
+
+    .td-footer-wrapper .widget_calendar th,
+    .td-footer-wrapper .widget_calendar td,
+    .td-footer-wrapper .td-social-style2 .td_social_type .td-social-box,
+    .td-footer-wrapper .td-social-style8 .td_social_type .td-social-box,
+    .td-social-style-2 .td-icon-font:after {
+        border-color: #0a0a0a;
+    }
+
+    .td-footer-wrapper .td-module-comments a,
+    .td-footer-wrapper .td-post-category,
+    .td-footer-wrapper .td-slide-meta .td-post-author-name span,
+    .td-footer-wrapper .td-slide-meta .td-post-date {
+        color: #fff;
+    }
+
+    
+    .td-footer-bottom-full .td-container::before {
+        background-color: rgba(10, 10, 10, 0.1);
+    }
+
+    
+    .td-sub-footer-container {
+        background-color: #ffffff;
+    }
+
+    
+    .td-sub-footer-container,
+    .td-subfooter-menu li a {
+        color: #000000;
+    }
+
+    
+    .td-subfooter-menu li a:hover {
+        color: #ffffff;
+    }
+
+
+    
+    .td-footer-wrapper::before {
+        background-position: center center;
+    }
+
+    
+    .td-footer-wrapper::before {
+        opacity: 0.5;
+    }
+
+
+
+    
+    .white-popup-block:before {
+        background-image: url('http://wp9527.awoo.org/wp-content/uploads/2017/06/10.jpg');
+    }
+
+    
+    ul.sf-menu > .td-menu-item > a {
+        font-family:Roboto;
+	font-size:17px;
+	font-weight:bold;
+	text-transform:none;
+	
+    }
+    
+    .sf-menu ul .td-menu-item a {
+        font-family:Roboto;
+	font-size:15px;
+	
+    }
+	
+    .td_mod_mega_menu .item-details a {
+        font-family:Roboto;
+	font-size:15px;
+	
+    }
+    
+    .td_mega_menu_sub_cats .block-mega-child-cats a {
+        font-family:Roboto;
+	font-size:15px;
+	
+    }
+    
+    .block-title > span,
+    .block-title > a,
+    .widgettitle,
+    .td-trending-now-title,
+    .wpb_tabs li a,
+    .vc_tta-container .vc_tta-color-grey.vc_tta-tabs-position-top.vc_tta-style-classic .vc_tta-tabs-container .vc_tta-tab > a,
+    .td-theme-wrap .td-related-title a,
+    .woocommerce div.product .woocommerce-tabs ul.tabs li a,
+    .woocommerce .product .products h2:not(.woocommerce-loop-product__title),
+    .td-theme-wrap .td-block-title {
+        font-family:Roboto;
+	font-size:15px;
+	text-transform:uppercase;
+	
+    }
+    
+    .td-big-grid-meta .td-post-category,
+    .td_module_wrap .td-post-category,
+    .td-module-image .td-post-category {
+        font-family:Roboto;
+	
+    }
+    
+	.td_module_wrap .td-module-title {
+		font-family:Roboto;
+	
+	}
+     
+    .td_module_1 .td-module-title {
+    	font-size:21px;
+	line-height:25px;
+	font-weight:bold;
+	
+    }
+    
+    .td_module_2 .td-module-title {
+    	font-size:21px;
+	line-height:25px;
+	font-weight:bold;
+	
+    }
+    
+    .td_module_6 .td-module-title {
+    	font-size:16px;
+	line-height:19px;
+	font-weight:bold;
+	
+    }
+    
+	.td_block_trending_now .entry-title a,
+	.td-theme-slider .td-module-title a,
+    .td-big-grid-post .entry-title {
+		font-family:Roboto;
+	
+	}
+    
+    .td_module_mx12 .td-module-title a {
+    	font-size:18px;
+	
+    }
+    
+    .td_block_trending_now .entry-title a {
+    	font-size:16px;
+	
+    }
+    
+    .td-big-grid-post.td-big-thumb .td-big-grid-meta,
+    .td-big-thumb .td-big-grid-meta .entry-title {
+        font-family:Lato;
+	font-size:30px;
+	line-height:36px;
+	font-weight:bold;
+	
+    }
+    
+    .td-big-grid-post.td-medium-thumb .td-big-grid-meta,
+    .td-medium-thumb .td-big-grid-meta .entry-title {
+        font-family:Lato;
+	font-size:24px;
+	line-height:29px;
+	font-weight:bold;
+	
+    }
+    
+    .td-big-grid-post.td-small-thumb .td-big-grid-meta,
+    .td-small-thumb .td-big-grid-meta .entry-title {
+        font-family:Lato;
+	font-size:24px;
+	line-height:29px;
+	font-weight:bold;
+	
+    }
+    
+    .td-big-grid-post.td-tiny-thumb .td-big-grid-meta,
+    .td-tiny-thumb .td-big-grid-meta .entry-title {
+        font-family:Lato;
+	font-size:20px;
+	line-height:23px;
+	font-weight:bold;
+	
+    }
+    
+	#td-mobile-nav,
+	#td-mobile-nav .wpb_button,
+	.td-search-wrap-mob {
+		font-family:Roboto;
+	
+	}
+
+
+	
+	.post .td-post-header .entry-title {
+		font-family:Roboto;
+	
+	}
+    
+    .td-post-template-3 .td-post-header .entry-title {
+        font-size:60px;
+	line-height:66px;
+	font-weight:bold;
+	
+    }
+    
+    .post .td-post-next-prev-content a {
+        font-family:Roboto;
+	font-size:18px;
+	font-weight:bold;
+	
+    }
+    
+    .td_block_related_posts .entry-title a {
+        font-family:Roboto;
+	font-size:16px;
+	font-weight:bold;
+	
+    }
+    
+	.td-sub-footer-copy {
+		font-size:13px;
+	font-weight:normal;
+	
+	}
+	
+    .widget_archive a,
+    .widget_calendar,
+    .widget_categories a,
+    .widget_nav_menu a,
+    .widget_meta a,
+    .widget_pages a,
+    .widget_recent_comments a,
+    .widget_recent_entries a,
+    .widget_text .textwidget,
+    .widget_tag_cloud a,
+    .widget_search input,
+    .woocommerce .product-categories a,
+    .widget_display_forums a,
+    .widget_display_replies a,
+    .widget_display_topics a,
+    .widget_display_views a,
+    .widget_display_stats {
+    	font-family:Lato;
+	font-weight:bold;
+	
+    }
+
+				.block-title > span {    font-family: unset;text-transform: none;}			window.dataLayer=window.dataLayer||[];dataLayer.push({'author':'髮藍客','category':'SEO教學','month':'2018-02','date':''});
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-NP6255S');
+window.dataLayer=window.dataLayer||[];dataLayer.push({'gtm':{'pageloaded':'false','scrollThreshold':-1}});
+SEO是什麼？搜尋引擎優化到底是「技術」還是「行銷」呢？- awoo成長駭客行銷誌
+
+
+
+var _hsq=_hsq||[];_hsq.push(["setContentType","blog-post"]);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ var ajaxurl='https://www.awoo.com.tw/blog/wp-admin/admin-ajax.php';
+
+
+
+
+
+
+
+
+window._wpemojiSettings={"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.awoo.com.tw\/blog\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.9"}};!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+
+
+//<![CDATA[
+var CrayonSyntaxSettings={"version":"_2.7.2_beta","is_admin":"0","ajaxurl":"https:\/\/www.awoo.com.tw\/blog\/wp-admin\/admin-ajax.php","prefix":"crayon-","setting":"crayon-setting","selected":"crayon-setting-selected","changed":"crayon-setting-changed","special":"crayon-setting-special","orig_value":"data-orig-value","debug":""};var CrayonSyntaxStrings={"copy":"Press %s to Copy, %s to Paste","minimize":"Click To Expand Code"};
+//]]>
+
+
+
+
+
+
+
+
+
+
+
+(function(url){if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){return;}var addEvent=function(evt,handler){if(window.addEventListener){document.addEventListener(evt,handler,false);}else if(window.attachEvent){document.attachEvent('on'+evt,handler);}};var removeEvent=function(evt,handler){if(window.removeEventListener){document.removeEventListener(evt,handler,false);}else if(window.detachEvent){document.detachEvent('on'+evt,handler);}};var evts='contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');var logHuman=function(){if(window.wfLogHumanRan){return;}window.wfLogHumanRan=true;var wfscr=document.createElement('script');wfscr.type='text/javascript';wfscr.async=true;wfscr.src=url+'&r='+Math.random();(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);for(var i=0;i<evts.length;i++){removeEvent(evts[i],logHuman);}};for(var i=0;i<evts.length;i++){addEvent(evts[i],logHuman);}})('//www.awoo.com.tw/blog/?wordfence_lh=1&hid=29A18F383D0AE0CCB9C831E30F49706D');
+
+window.tdwGlobal={"adminUrl":"https:\/\/www.awoo.com.tw\/blog\/wp-admin\/","wpRestNonce":"b9698224aa","wpRestUrl":"https:\/\/www.awoo.com.tw\/blog\/wp-json\/","permalinkStructure":"\/%year%\/%monthnum%\/%postname%\/"};
+
+
+
+var tdBlocksArray=[];function tdBlock(){this.id='';this.block_type=1;this.atts='';this.td_column_number='';this.td_current_page=1;this.post_count=0;this.found_posts=0;this.max_num_pages=0;this.td_filter_value='';this.is_ajax_running=false;this.td_user_action='';this.header_color='';this.ajax_pagination_infinite_stop='';}(function(){var htmlTag=document.getElementsByTagName("html")[0];if(navigator.userAgent.indexOf("MSIE 10.0")>-1){htmlTag.className+=' ie10';}if(!!navigator.userAgent.match(/Trident.*rv\:11\./)){htmlTag.className+=' ie11';}if(/(iPad|iPhone|iPod)/g.test(navigator.userAgent)){htmlTag.className+=' td-md-is-ios';}var user_agent=navigator.userAgent.toLowerCase();if(user_agent.indexOf("android")>-1){htmlTag.className+=' td-md-is-android';}if(-1!==navigator.userAgent.indexOf('Mac OS X')){htmlTag.className+=' td-md-is-os-x';}if(/chrom(e|ium)/.test(navigator.userAgent.toLowerCase())){htmlTag.className+=' td-md-is-chrome';}if(-1!==navigator.userAgent.indexOf('Firefox')){htmlTag.className+=' td-md-is-firefox';}if(-1!==navigator.userAgent.indexOf('Safari')&&-1===navigator.userAgent.indexOf('Chrome')){htmlTag.className+=' td-md-is-safari';}if(-1!==navigator.userAgent.indexOf('IEMobile')){htmlTag.className+=' td-md-is-iemobile';}})();var tdLocalCache={};(function(){"use strict";tdLocalCache={data:{},remove:function(resource_id){delete tdLocalCache.data[resource_id];},exist:function(resource_id){return tdLocalCache.data.hasOwnProperty(resource_id)&&tdLocalCache.data[resource_id]!==null;},get:function(resource_id){return tdLocalCache.data[resource_id];},set:function(resource_id,cachedData){tdLocalCache.remove(resource_id);tdLocalCache.data[resource_id]=cachedData;}};})();var td_viewport_interval_list=[{"limitBottom":767,"sidebarWidth":228},{"limitBottom":1018,"sidebarWidth":300},{"limitBottom":1140,"sidebarWidth":324}];var td_animation_stack_effect="type0";var tds_animation_stack=true;var td_animation_stack_specific_selectors=".entry-thumb, img";var td_animation_stack_general_selectors=".td-animation-stack img, .td-animation-stack .entry-thumb, .post img";var td_ajax_url="https:\/\/www.awoo.com.tw\/blog\/wp-admin\/admin-ajax.php?td_theme_name=Newspaper&v=8.0";var td_get_template_directory_uri="https:\/\/www.awoo.com.tw\/blog\/wp-content\/themes\/Newspaper";var tds_snap_menu="snap";var tds_logo_on_sticky="show_header_logo";var tds_header_style="6";var td_please_wait="Please wait...";var td_email_user_pass_incorrect="User or password incorrect!";var td_email_user_incorrect="Email or username incorrect!";var td_email_incorrect="Email incorrect!";var tds_more_articles_on_post_enable="";var tds_more_articles_on_post_time_to_wait="";var tds_more_articles_on_post_pages_distance_from_top=0;var tds_theme_color_site_wide="#bc1715";var tds_smart_sidebar="enabled";var tdThemeName="Newspaper";var td_magnific_popup_translation_tPrev="Previous (Left arrow key)";var td_magnific_popup_translation_tNext="Next (Right arrow key)";var td_magnific_popup_translation_tCounter="%curr% of %total%";var td_magnific_popup_translation_ajax_tError="The content from %url% could not be loaded.";var td_magnific_popup_translation_image_tError="The image #%curr% could not be loaded.";var td_ad_background_click_link="";var td_ad_background_click_target="";
+
+                        {
+                            "@context": "http://schema.org",
+                            "@type": "BreadcrumbList",
+                            "itemListElement": [{
+                            "@type": "ListItem",
+                            "position": 1,
+                                "item": {
+                                "@type": "WebSite",
+                                "@id": "https://www.awoo.com.tw/blog/",
+                                "name": "首頁"                                               
+                            }
+                        },{
+                            "@type": "ListItem",
+                            "position": 2,
+                                "item": {
+                                "@type": "WebPage",
+                                "@id": "https://www.awoo.com.tw/blog/category/digital/",
+                                "name": "數位行銷"
+                            }
+                        },{
+                            "@type": "ListItem",
+                            "position": 3,
+                                "item": {
+                                "@type": "WebPage",
+                                "@id": "https://www.awoo.com.tw/blog/category/digital/content-marketing/",
+                                "name": "內容行銷"                                
+                            }
+                        },{
+                            "@type": "ListItem",
+                            "position": 4,
+                                "item": {
+                                "@type": "WebPage",
+                                "@id": "https://www.awoo.com.tw/blog/2018/02/technical-or-content/",
+                                "name": "SEO是什麼？搜尋引擎優化..."                                
+                            }
+                        }    ]
+                        }
+                       
+ .wpb_animate_when_almost_visible { opacity: 1; }
+/* custom css theme panel */
+.td-header-style-6 .sf-menu>li>a:hover{
+color: rgb(222,107, 111);
+}
+.td-footer-wrapper {
+    padding-top:10px;
+}
+.awoofooter div{
+    font-size:13px; 
+    font-weight:400;
+    padding-left:10%;
+    
+}
+.awoofooter div h4{
+    margin-top:0px; font-weight:bold;
+}
+
+
+/* custom responsive css from theme panel (Advanced CSS) */
+@media (max-width: 767px) {
+.awoofooter div{
+    padding-left:10% !important;
+}
+.awoofooter div:nth-child(2){
+    margin-top:20px;
+}
+}
+
+
+
+
+(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="//connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v2.10&appId=106994596679781";fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+數位行銷
+網站分析/GA教學
+SEO教學
+
+初階SEO
+中階SEO
+進階SEO
+
+
+awoo工具教學
+訂閱電子報
+ 
+
+ 
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+awoo成長駭客行銷誌
+
+
+數位行銷
+網站分析/GA教學
+SEO教學
+
+var block_td_uid_1_5c43cc46ee191=new tdBlock();block_td_uid_1_5c43cc46ee191.id="td_uid_1_5c43cc46ee191";block_td_uid_1_5c43cc46ee191.atts='{"limit":4,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"548","category_ids":"","custom_title":"","custom_url":"","show_child_cat":30,"sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_category_ids_filter","td_ajax_filter_ids":"","td_filter_default_txt":"All","color_preset":"","border_top":"","class":"td_uid_1_5c43cc46ee191_rand","el_class":"","offset":"","css":"","tdc_css":"","tdc_css_class":"td_uid_1_5c43cc46ee191_rand","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":"","block_template_id":""}';block_td_uid_1_5c43cc46ee191.td_column_number="3";block_td_uid_1_5c43cc46ee191.block_type="td_block_mega_menu";block_td_uid_1_5c43cc46ee191.post_count="4";block_td_uid_1_5c43cc46ee191.found_posts="56";block_td_uid_1_5c43cc46ee191.header_color="";block_td_uid_1_5c43cc46ee191.ajax_pagination_infinite_stop="";block_td_uid_1_5c43cc46ee191.max_num_pages="14";tdBlocksArray.push(block_td_uid_1_5c43cc46ee191);All初階SEO中階SEO進階SEO
+
+
+ 
+
+傳產老闆看過來，企業數位轉型從SEO開始 
+
+
+
+
+ 
+
+寫給程式麻瓜的JavaScript基礎介紹，跟工程師溝通零障… 
+
+
+
+
+ 
+
+Google 我的商家：商家O2O行銷第一步，讓顧客找到你的… 
+
+
+
+
+ 
+
+新版Google Search Console基礎介紹，透析… 
+
+ 
+
+
+awoo工具教學
+訂閱電子報
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+window.dataLayer=window.dataLayer||[];dataLayer.push({'gtm':{'author':'髮藍客'}});
+
+
+首頁  數位行銷  內容行銷  SEO是什麼？搜尋引擎優化...
+
+
+
+
+
+數位行銷內容行銷awoo精選SEO領袖觀點SEO教學初階SEOSEO操作實務
+
+SEO是什麼？搜尋引擎優化到底是「技術」還是「行銷」呢？
+
+By 髮藍客 -   2018-02-26 0 4794 
+
+
+
+
+分享至Facebook
+分享至Twitter
+
+
+
+
+
+本篇文章可以協助對SEO的認識完全是零的讀者，用最短的時間知道什麼是SEO，並得到能夠進一步學習的相關資源；對已經知道SEO是什麼的讀者也能夠在這篇文章中再次從縱觀的角度重新歸納與組合自己對SEO的認識，就讓我們開始閱讀這篇文章吧！
+在知道什麼是SEO之前，先跟大家分享一下我上次跟大學同學聚會時的對話：
+我：「我最近的工作是在做SEO。」
+友人：「什麼是SEO呀？」
+我：「搜尋引擎優化呀，簡單來說就是讓google搜尋一個關鍵字時可以讓你的網站排名在最前面。」
+這時友人滿臉疑惑的問：「這到底是什麼工作呀！那你們到底都在做什麼？」
+相信現在進來這個頁面中的讀者很多都有同樣的疑問，而已經對SEO略有所聞的老闆、工程師、行銷人等等也都可能還是對「SEO到底是什麼」一頭霧水；也因為對切入與認識SEO的角度不同，而造成了許多誤會。所以awoo將在這篇文章中從頭開始解釋，到底什麼是SEO，以及讓大家了解搜尋引擎優化到底是「技術」還是「行銷」。
+
+
+目錄
+
+你可曾想過你看到的Google搜尋結果是從何而來那SEO到底是什麼？Technical SEO：技術導向SEOContent SEO：內容導向SEO那麼哪個方向才是最為重要的呢？展望未來結論
+你可曾想過你看到的Google搜尋結果是從何而來
+雖然大家有使用過Google搜尋關鍵字的經驗，但是可能並不會知道搜尋結果上的資料到底是從何而來，又或是為什麼有些網站被排在前面；有些被排在後面。在這邊可以先跟大家說明一下，Google的搜尋結果其實分有付費的結果「Google關鍵字廣告」以及沒辦法靠付費給google提升排名的「自然搜尋結果」。
+
+大家可以看到圖中最上方的搜尋結果是有被標註為「廣告」的，這就是可以在「Google Ads」的平台中進行競標而達到曝光的「關鍵字廣告」；而後面的搜尋結果才是SEO的世界中所在競逐的排名。Google會盡可能透過他們的機器人；也就是「爬蟲」，去搜集網路世界上的所有網站。並針對使用者搜尋關鍵字的意圖，透過他們的機器來進行運算，用一套精心設計過的「演算法」來把他們所認為最能夠解決這個搜尋意圖的結果呈現給使用者，而且排序的方式是不會因為你有付費給Google而讓排名前進的，也沒有任何一種管道可以付費給Google讓你的自然搜尋排名提前。
+Google這套演算法所會考慮到的要素非常多元，判斷網站或是網頁的資料是否能排在前面的因素包括了「技術」以及「內容」兩種不太一樣的面相，而兩種面向中也各有許多可以實際針對網站完成的優化項目。
+那SEO到底是什麼？
+SEO（Search Engine Optimization, 搜尋引擎優化）正是針對不同面向中的不同項目提出整體性的優化方案，透過這樣的方法讓網站在使用者搜尋某個關鍵字時可以得到良好的自然排名，進而提升網站的流量；達到商品曝光、蒐集使用者、宣揚特定理念等等的種種目標。
+「技術」以及「內容」兩種面向在SEO的領域中我們往往會分別稱作「Technical SEO」以及「Content SEO」，接著我們就來介紹一下這兩種不同的SEO領域吧！
+
+Technical SEO：技術導向SEO
+在技術層面上的主要目標就是要讓「Google讀懂我們的網站」，由於Google的爬蟲不一定能夠看得懂所有的網站內容，因此需要一些大家的「默契」來讓網站可以被看懂，以下大概列舉幾項：
+（有興趣了解詳細內容可以點擊參考文章）
+
+301轉址
+參考文章：301重新導向規則改變對SEO的影響
+SSL的憑證設定
+參考文章：HTTPS的威力？「S」對SEO與網站經營的四大重要性
+sitemap該要如何產生
+參考文章：sitemap.xml網站地圖是什麼？從工具/產生器/程式製作到進行提交教學
+網站速度優化
+參考文章：做 SEO你絕對不可以忽略的【網站速度優化】，關於速度優化的三兩事
+
+以上這些項目都是我們在Technical SEO的領域常常會面臨到以及需要解決的問題，這些項目常常都需要透過工程師，修改網站的程式碼或是網站架構才能夠解決。
+
+Content SEO：內容導向SEO
+在內容的部分就與技術為主導的SEO有極大的不同了。awoo過去在SEO上都一再的強調內容，內容可以說是現代SEO的顯學，在內容上的SEO包括了：
+
+關鍵字研究：
+
+透過關鍵字的數據去尋找出市場上熱門的話題是什麼、有哪些關鍵字在搜尋結果中還沒有最好的解答，是可以試著去進攻的關鍵字。
+參考文章：關鍵字分析7步驟，正中紅心客群
+
+文案撰寫
+
+撰寫的文案夠不夠精彩，有沒有辦法滿足使用者在搜尋這個關鍵字時所抱有的期待。
+參考文章：善用SEO文案撰寫技巧，優秀排名其實比你想像中唾手可得
+
+轉換成效優化
+
+使用Google Analytics研究透過SEO進入我的網站的使用者是不是真的有在我的網站內進行轉換；針對不同關鍵字進站的用戶是否要設計不同的CTA（Call To Action, 行動呼籲）。
+參考文章：GA (Google Analytics) 是什麼？為什麼全世界都在用？
+
+Title/Description優化：
+
+與Tecnical SEO中的Title/Description優化不同，這邊更加強調Title/Description的文案撰寫，包括是否夠吸引人可以讓人願意點擊、是否有帶入目標關鍵字等。
+參考文章：Meta Title Description 怎麼寫？別小看標題、摘要，SEO老司機就是你！
+以上這些項目不是單靠程式碼就可以解決的了，而是需要由行銷人員規劃縝密的計畫，包括在文案撰寫的過程中融入品牌的精神，設定品牌的目標族群是誰，要先攻佔怎樣的關鍵字才是最為有效的，這可以說是與前面所述的Technical SEO有截然不同的差距。
+那麼哪個方向才是最為重要的呢？
+這部分就要分享一下awoo服務客戶時的經驗了。客戶會來尋求awoo的協助往往都是在技術的階段(Technical SEO)遇到了問題，於是來尋求awoo的協助。在這個階段會相當需要有熟悉google所提出的網站架構規範的專業人員，因此會需要由我們來進行輔導。當技術上的問題解決了之後，客戶在過去所累積的內容都有辦法能夠得到對應的排名，再配合我們所提供的關鍵字調查，找出更多適合網站的關鍵字之後，自然而然可以得到更多的搜尋流量。
+
+因此，如果是一個從零開始網站，你所需要踏出的第一步就是在網站架構上做好SEO
+
+在Technical SEO上，你一定要先做出一個至少有60分的網站架構，可以參考以下這個簡單的Checklist：
+
+網站的所有頁面都能夠被收錄
+透過庫存頁面檢查頁面內容確實能夠被爬取
+Title/Description已經有所規範，且有辦法針對特定頁面進行客製
+
+以上3點如果可以達到，你所精心撰寫的內容就已經有辦法可以被收錄了。建議在資源有限的狀況下只要先解決以上問題就可以開始在內容SEO上發揮了。
+在內容的SEO上，可以說絕對是網站的主體。SEO可以說是一種傳播資訊的一種方式之一，但如果你的網站上內容貧乏，或是只依靠轉載的文章，你的Technical SEO做的再完美也只會是枉然。
+如果你的網站有豐富的資源，甚至可以有一個專門的人員可以處理SEO上的問題，那麼這個人應該要可以同時做好兩端的所有工作，如以下的項目：
+Technical SEO
+
+熟悉google演算法
+知道所有google建議的網站規範
+有能力與IT部門溝通，完成網站SEO所需的修改
+
+Content SEO
+
+了解網站的行銷脈絡，包括品牌的精神、商品的特色
+對產業內的相關鍵字研究有足夠的了解
+與內容團隊協作，發想適合作為SEO佈局及傳達品牌理念的文案
+能夠針對SEO的流量有整體的成效分析能力
+
+一個SEO人員若能夠讓以上的所有項目有效的同時進行，那麼兩邊的SEO項目必定能夠同時達到加成的效果。
+總歸一句話，你絕對不能夠妄想單靠Technical SEO或是Content SEO就能夠一步登天。
+
+TECHNICAL SEO與CONTENT SEO絕對是一樣重要的！
+
+
+展望未來
+在SEO的服務過程中往往會聽到這樣的一句話：「SEO已死」，但是真的是這樣的嗎？筆者並不這麼認為，只要「搜尋」這個行為還在的一天，SEO就不會死去。Technical SEO的難度或許會隨著科技的進展大幅降低，像是極端的Technical SEO也就是黑帽SEO就已經式微。但是人們只要對疑問以及解答有所渴望，SEO人員就能針對使用者的想要得到的答案進行內容的產出（甚至不是以關鍵字的形式），Content SEO就會一直存在。
+結論
+回到這篇文章最初的標題：「SEO這件事，到底是『技術』還是『行銷』呢」，筆者認為，SEO絕對是行銷，畢竟無論是Technical SEO或是Contetent SEO都只是一種手段，目標都是獲取流量，而最終目的就是轉換為訂單或是進入網站後更加深入的了解品牌。
+對於有興趣更進一步了解SEO的讀者，我們這邊也再提供Google的SEO入門指南給各位參考，這是所有學習過SEO的人都上過的第一課。你現在所在的這個部落格「awoo成長駭客行銷誌」也有針對各個SEO的執行項目有更進一步的討論，非常歡迎您按讚「awoo的粉絲團」以及「訂閱我們的部落格」，有新的文章發佈時會立即通知你們！
+希望這篇文章可以對讀者們有所幫助，不論是對SEO有所認識，或是再次檢視自己在SEO上應該要去加強的到底是Technical SEO又或是Content SEO！
+ps. 回到第一段的話題，介紹自己的工作真的是很痛苦的一件事，有一次過年親戚逼問工作內容時也直接雲淡風輕的回答：「唉呀，google相關產業啦！」
+（這已經是我想到最適合、最有面子的回答方式了。）
+
+更多關於數位行銷、SEO、網站分析，歡迎
+訂閱awoo成長駭客行銷誌
+
+
+更多關於數位行銷、SEO、網站分析，歡迎
+訂閱awoo成長駭客行銷誌
+
+ 
+
+
+標籤SEO觀念content seotechnical seo 
+分享
+
+Facebook
+Twitter
+
+
+
+tweet !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+
+Previous article2018 awoo 推薦的七個分析工具Next article避免SEO排名分散的「重複內容」重點整理 髮藍客職稱是工程師，但是好像也可以算是網站企劃或是行銷人員。認為SEO從來不是一種特異武功，而該是像張三丰教會張無忌的太極拳才能以柔克剛，無招勝有招。企圖使用最優雅的姿態將網站排名送上首頁，並讓不該被埋沒的網路資訊透過SEO讓需要的人看見。  
+
+var block_td_uid_8_5c43cc4709c06=new tdBlock();block_td_uid_8_5c43cc4709c06.id="td_uid_8_5c43cc4709c06";block_td_uid_8_5c43cc4709c06.atts='{"limit":6,"sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"","category_ids":"","custom_title":"","custom_url":"","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"","header_text_color":"","ajax_pagination_infinite_stop":"","td_column_number":3,"td_ajax_preloading":"","td_ajax_filter_type":"td_custom_related","td_ajax_filter_ids":"","td_filter_default_txt":"All","color_preset":"","border_top":"","class":"td_uid_8_5c43cc4709c06_rand","el_class":"","offset":"","css":"","tdc_css":"","tdc_css_class":"td_uid_8_5c43cc4709c06_rand","live_filter":"cur_post_same_categories","live_filter_cur_post_id":7978,"live_filter_cur_post_author":"2","block_template_id":""}';block_td_uid_8_5c43cc4709c06.td_column_number="3";block_td_uid_8_5c43cc4709c06.block_type="td_block_related_posts";block_td_uid_8_5c43cc4709c06.post_count="6";block_td_uid_8_5c43cc4709c06.found_posts="118";block_td_uid_8_5c43cc4709c06.header_color="";block_td_uid_8_5c43cc4709c06.ajax_pagination_infinite_stop="";block_td_uid_8_5c43cc4709c06.max_num_pages="20";tdBlocksArray.push(block_td_uid_8_5c43cc4709c06);相關文章作者其他文章
+
+
+
+
+ 內容行銷 
+
+如何下標題？從心理學角度解構6種吸睛標題技巧 
+
+
+
+
+
+ SEO教學 
+
+傳產老闆看過來，企業數位轉型從SEO開始 
+
+
+
+
+
+ SEO教學 
+
+寫給程式麻瓜的JavaScript基礎介紹，跟工程... 
+
+ 
+
+
+
+
+ SEO教學 
+
+Google 我的商家：商家O2O行銷第一步，讓顧... 
+
+
+
+
+
+ SEO教學 
+
+新版Google Search Console基礎... 
+
+
+
+
+
+ SEO教學 
+
+與Google演算法同行，讓你做好SEO沒煩惱！ 
+
+ 
+
+
+
+
+var block_td_uid_11_5c43cc47113fc=new tdBlock();block_td_uid_11_5c43cc47113fc.id="td_uid_11_5c43cc47113fc";block_td_uid_11_5c43cc47113fc.atts='{"limit":"5","sort":"popular","post_ids":"-1276","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"","category_ids":"","custom_title":"\u71b1\u9580\u6587\u7ae0","custom_url":"","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"#","header_text_color":"#","ajax_pagination_infinite_stop":"","td_column_number":1,"td_ajax_preloading":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","color_preset":"","border_top":"","class":"td_block_widget td_uid_11_5c43cc47113fc_rand","el_class":"","offset":"","css":"","tdc_css":"","tdc_css_class":"td_uid_11_5c43cc47113fc_rand","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":"","block_template_id":""}';block_td_uid_11_5c43cc47113fc.td_column_number="1";block_td_uid_11_5c43cc47113fc.block_type="td_block_7";block_td_uid_11_5c43cc47113fc.post_count="5";block_td_uid_11_5c43cc47113fc.found_posts="279";block_td_uid_11_5c43cc47113fc.header_color="#";block_td_uid_11_5c43cc47113fc.ajax_pagination_infinite_stop="";block_td_uid_11_5c43cc47113fc.max_num_pages="56";tdBlocksArray.push(block_td_uid_11_5c43cc47113fc);熱門文章
+
+
+
+
+Google Analytics分析(GA)是什麼？為什麼全世界都在用？ 
+2018-06-13 
+
+
+
+
+
+
+
+sitemap.xml網站地圖是什麼？從工具/產生器/程式製作到進行提交教學 
+2018-01-04 
+
+
+
+
+
+
+
+SEO最新趨勢(2018)有哪些？awoo重點整理＋最佳實戰祕技 
+2018-01-25 
+
+
+
+
+
+
+
+[5W1H] 寫新聞稿、廣告行銷、網站企劃、SEO 網站優化…通通要5W1H！ 
+2010-05-11 
+
+
+
+
+
+
+
+關鍵字分析7步驟，正中紅心客群 
+2017-05-11 
+
+
+  var block_td_uid_12_5c43cc471f3f1=new tdBlock();block_td_uid_12_5c43cc471f3f1.id="td_uid_12_5c43cc471f3f1";block_td_uid_12_5c43cc471f3f1.atts='{"limit":"5","sort":"","post_ids":"","tag_slug":"","autors_id":"","installed_post_types":"","category_id":"","category_ids":"","custom_title":"\u6700\u65b0\u6587\u7ae0","custom_url":"","show_child_cat":"","sub_cat_ajax":"","ajax_pagination":"next_prev","header_color":"#","header_text_color":"#","ajax_pagination_infinite_stop":"","td_column_number":1,"td_ajax_preloading":"","td_ajax_filter_type":"","td_ajax_filter_ids":"","td_filter_default_txt":"All","color_preset":"","border_top":"","class":"td_block_widget td_uid_12_5c43cc471f3f1_rand","el_class":"","offset":"","css":"","tdc_css":"","tdc_css_class":"td_uid_12_5c43cc471f3f1_rand","live_filter":"","live_filter_cur_post_id":"","live_filter_cur_post_author":"","block_template_id":""}';block_td_uid_12_5c43cc471f3f1.td_column_number="1";block_td_uid_12_5c43cc471f3f1.block_type="td_block_7";block_td_uid_12_5c43cc471f3f1.post_count="5";block_td_uid_12_5c43cc471f3f1.found_posts="280";block_td_uid_12_5c43cc471f3f1.header_color="#";block_td_uid_12_5c43cc471f3f1.ajax_pagination_infinite_stop="";block_td_uid_12_5c43cc471f3f1.max_num_pages="56";tdBlocksArray.push(block_td_uid_12_5c43cc471f3f1);最新文章
+
+
+
+
+Facebook廣告投到心累了嗎？廣告優化工具這4點做得更好又更快！ 
+2019-01-17 
+
+
+
+
+
+
+
+正確理解Google Analytics「工作階段」定義、計算、重要性 
+2019-01-15 
+
+
+
+
+
+
+
+如何下標題？從心理學角度解構6種吸睛標題技巧 
+2019-01-15 
+
+
+
+
+
+
+
+行銷與業務通力合作，Smarketing幫助企業成長20%營收 
+2019-01-10 
+
+
+
+
+
+
+
+傳產老闆看過來，企業數位轉型從SEO開始 
+2019-01-09 
+
+
+  SEO 網站優化 
+
+
+
+
+
+
+
+
+
+
+
+
+
+》awoo
+
+awoo顧問服務 
+awoo成長駭客工具 
+看見數據
+加入我們
+
+
+》聯繫我們
+
+
+Facebook
+顧問諮詢表單
+電話：(02)8712-1128
+傳真：(02)2596-1288
+統一編號：43401309
+地址：台北市中山區中山北路三段 49 號 7 樓之一
+
+ 
+
+
+
+
+
+ABOUT USawoo成長駭客行銷誌，由台灣SEO領導品牌 「awoo台灣前進」所經營，致力於分享國內外行銷與數據的實際操作與趨勢分析。
+我們相信在學習行銷的路上除了需要不斷的吸收新資訊外，實際操作的案例分享與長遠的策略規劃是必然，也正是台灣市場所缺乏的部分。
+awoo會致力於在此部落格提供深入淺出的文章，讓台灣的行銷知識與世界同步。
+ 
+
+
+
+
+
+
+
+
+
+Copyright ©阿物國際事業有限公司 All rights reserved 
+
+
+
+
+
+
+
+
+
+
+
+
+//<![CDATA[
+var leadin_wordpress={"userRole":"visitor","pageType":"post","leadinPluginVersion":"7.0.1"};
+//]]>
+
+
+
+
+
+
+
+
+//<![CDATA[
+var ezTOC={"smooth_scroll":"1","visibility_hide_by_default":"","width":"auto","scroll_offset":"30"};
+//]]>
+
+jQuery().ready(function jQuery_ready(){tdAjaxCount.tdGetViewsCountsAjax("post","[7978]");});(function(){var html_jquery_obj=jQuery('html');if(html_jquery_obj.length&&(html_jquery_obj.is('.ie8')||html_jquery_obj.is('.ie9'))){var path='https://www.awoo.com.tw/blog/wp-content/themes/Newspaper/style.css';jQuery.get(path,function(data){var str_split_separator='#td_css_split_separator';var arr_splits=data.split(str_split_separator);var arr_length=arr_splits.length;if(arr_length>1){var dir_path='https://www.awoo.com.tw/blog/wp-content/themes/Newspaper';var splited_css='';for(var i=0;i<arr_length;i++){if(i>0){arr_splits[i]=str_split_separator+' '+arr_splits[i];}var formated_str=arr_splits[i].replace(/\surl\(\'(?!data\:)/gi,function regex_function(str){return' url(\''+dir_path+'/'+str.replace(/url\(\'/gi,'').replace(/^\s+|\s+$/gm,'');});splited_css+="<style>"+formated_str+"</style>";}var td_theme_css=jQuery('link#td-theme-css');if(td_theme_css.length){td_theme_css.after(splited_css);}}});}})();
+
+_stq=window._stq||[];_stq.push(['view',{v:'ext',j:'1:6.9',blog:'141357980',post:'7978',tz:'8',srv:'www.awoo.com.tw'}]);_stq.push(['clickTrackerInit','141357980','7978']);
+
+
+Edit with Live CSS
+
+
+
+
+(function(jQuery,undefined){jQuery(window).ready(function(){if('undefined'!==typeof tdcAdminIFrameUI){var $liveIframe=tdcAdminIFrameUI.getLiveIframe();if($liveIframe.length){$liveIframe.load(function(){$liveIframe.contents().find('body').append('<textarea class="tdw-css-writer-editor" style="display: none"></textarea>');});}}});})(jQuery);
+
+
+jQuery(window).load(function(){if('undefined'!==typeof tdLiveCssInject){tdLiveCssInject.init();var editor_textarea=jQuery('.td_live_css_uid_1_5c43cc47265af');var languageTools=ace.require("ace/ext/language_tools");var tdcCompleter={getCompletions:function(editor,session,pos,prefix,callback){if(prefix.length===0){callback(null,[]);return}if('undefined'!==typeof tdcAdminIFrameUI){var data={error:undefined,getShortcode:''};tdcIFrameData.getShortcodeFromData(data);if(!_.isUndefined(data.error)){tdcDebug.log(data.error);}if(!_.isUndefined(data.getShortcode)){var regex=/el_class=\"([A-Za-z0-9_-]*\s*)+\"/g,results=data.getShortcode.match(regex);var elClasses={};for(var i=0;i<results.length;i++){var currentClasses=results[i].replace('el_class="','').replace('"','').split(' ');for(var j=0;j<currentClasses.length;j++){if(_.isUndefined(elClasses[currentClasses[j]])){elClasses[currentClasses[j]]='';}}}var arrElClasses=[];for(var prop in elClasses){arrElClasses.push(prop);}callback(null,arrElClasses.map(function(item){return{name:item,value:item,meta:'in_page'}}));}}}};languageTools.addCompleter(tdcCompleter);window.editor=ace.edit("td_live_css_uid_1_5c43cc47265af");window.editorChangeHandler=function(){window.onbeforeunload=function(){if(tdwState.lessWasEdited){return"You have attempted to leave this page. Are you sure?";}return false;};var editorValue=editor.getSession().getValue();editor_textarea.val(editorValue);if('undefined'!==typeof tdcAdminIFrameUI){tdcAdminIFrameUI.getLiveIframe().contents().find('.tdw-css-writer-editor:first').val(editorValue);}tdLiveCssInject.less();};editor.getSession().setValue(editor_textarea.val());editor.getSession().on('change',editorChangeHandler);editor.setTheme("ace/theme/textmate");editor.setShowPrintMargin(false);editor.getSession().setMode("ace/mode/less");editor.setOptions({enableBasicAutocompletion:true,enableSnippets:true,enableLiveAutocompletion:false});}});
+
+
+
+Save
+Write CSS OR LESS and hit save. CTRL + SPACE for auto-complete.
+
+
+
+
+
